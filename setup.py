@@ -13,7 +13,7 @@ with open("requirements.txt", "r") as fh:
 setuptools.setup(
     name="pip_package",
     version="0.0.1",
-    author=author,
+    author="Mikhail Advani",
     url="https://github.com/mikhailadvani/pip_package",
     install_requires=install_requires
 )
